@@ -1,4 +1,9 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## App 2: Styling Application
+   - FlatCards
+   - Scrollable Cards
+   - Action Cards
+   - Deeplinking & Touchable Opacity
+   - Iterative UI
 
 # Getting Started
 
